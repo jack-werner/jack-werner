@@ -1,9 +1,8 @@
 # Hi there 👋
 
-I'm Jack Werner! I am a Data Engineer, Data Scientist, and Web Developer. I am passionate about music and am working on software that aides in the creation, discovery, and enjoyment of music.
+I'm Jack Werner! I am a Data Engineer and Web Developer. I am passionate about music and am working on software that aides in the creation, discovery, and enjoyment of music.
 
 - 🛠 I'm Currently Building: [ChordCraft](https://www.chordcraft.app) (Next.js + Supabase)
-- 🤓 I'm Currently Learning:  [Practical Deep Learning For Coders](https://course.fast.ai/) (Python + PyTorch)
 - 💬 Ask me about: Python, Spark, Next.js
 - 📫 Email me at its.jack.werner@gmail.com
 - ⚡ Fun fact: I also DJ and you can listen to some of my music and mixes on my [Soundcloud](https://soundcloud.com/jack-wolfgang-music)
